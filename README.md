@@ -1,4 +1,6 @@
-Changed the PIN for ESP-01s wifi module which is very cheap. Bit harder to program and requires soldering of pins to allow deep sleep wake up.
+Changed the PIN for ESP-01s wifi module which is very cheap. 
+
+Requires soldering of pins to allow deep sleep wake up.
 https://www.instructables.com/Enable-DeepSleep-on-an-ESP8266-01/
 
 Also added code for confirmation of wifi connection.
