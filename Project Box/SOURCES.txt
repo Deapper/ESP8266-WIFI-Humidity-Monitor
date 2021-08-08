@@ -1,3 +1,0 @@
-Sources for ESP8266 Humidity Sensor Project Box
-
-Project Box (customizable) (https://www.thingiverse.com/thing:2530719)
